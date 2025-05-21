@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_1" data-name=" Слой 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1321.03 246.33">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        isolation: isolate;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-3 {
+        font-family: UnageoBlack-Regular, 'Unageo Black';
+        font-size: 226.2px;
+      }
+
+      .cls-4 {
+        fill: #6601fa;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <rect class="cls-4" x="642.89" y="13.07" width="678.14" height="219.75" rx="44.33" ry="44.33"/>
+  <g class="cls-1">
+    <text class="cls-3" transform="translate(0 192.27)"><tspan x="0" y="0">Comp </tspan></text>
+    <text class="cls-2" transform="translate(668.18 192.27)"><tspan x="0" y="0">A</tspan></text>
+    <text class="cls-2" transform="translate(824.02 192.27)"><tspan x="0" y="0">s</tspan></text>
+    <text class="cls-2" transform="translate(925.13 192.27)"><tspan x="0" y="0">sist</tspan></text>
+  </g>
+</svg>
